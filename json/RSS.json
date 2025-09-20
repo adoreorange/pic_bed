@@ -185,7 +185,7 @@
     "avatar": "https://blog.lusyoe.com/lusyoe-logo.webp",
     "rss": "https://blog.lusyoe.com/rss/feed.xml"
   },
-      {
+  {
     "name": "晓雨 | CodeRains",
     "url": "https://www.coderains.cn",
     "avatar": "https://cdn.aimiliy.top/avatar/www.coderains.cn.webp",
@@ -209,7 +209,7 @@
     "avatar": "https://cdn.aimiliy.top/avatar/www.wnblog.com.webp",
     "rss": "https://www.wnblog.com/feed/"
   },
-   {
+  {
     "name": "彬红茶日记",
     "url": "https://note.redcha.cn",
     "avatar": "https://cdn.aimiliy.top/avatar/favicon-256x256.webp",
@@ -220,5 +220,17 @@
     "url": "https://tianmiao.site",
     "avatar": "https://cdn.aimiliy.top/avatar/tianmiao.site.webp",
     "rss": "https://blog.tianmiao.site/feed.xml"
+  },
+  {
+    "name": "MuXiaoChen🍊",
+    "url": "https://miraii.cn/",
+    "avatar": "https://cdn.aimiliy.top/avatar/202504256.webp",
+    "rss": "https://miraii.cn/atom.xml"
+  },
+  {
+    "name": "adoreorg🍊",
+    "url": "https://blog.adoreorg.cn/",
+    "avatar": "https://source.adoreorg.cn/webp/backImg/head.webp",
+    "rss": "https://blog.adoreorg.cn/atom.xml"
   }
 ]
