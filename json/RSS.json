@@ -63,7 +63,7 @@
     "name": "徐徐爱coding",
     "url": "https://www.xu69.com",
     "avatar": "https://www.xu69.com/xu-resource/ico.png",
-    "rss": "https://www.xu69.com/feed/"
+    "rss": "https://www.xu69.com/feed.xml"
   },
   {
     "name": "又见苍岚",
@@ -76,12 +76,6 @@
     "url": "https://www.iczrx.cn/",
     "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640",
     "rss": "https://www.iczrx.cn/feed/"
-  },
-  {
-    "name": "XINGYE’s Blog",
-    "url": "https://blog.xing-ye.top/",
-    "avatar": "https://blog.xing-ye.top/avatar.webp",
-    "rss": "https://blog.xing-ye.top/atom.xml"
   },
   {
     "name": "雾林博客",
@@ -105,7 +99,7 @@
     "name": "NGC2237",
     "url": "https://ngc2237.love",
     "avatar": "https://ngc2237.love/imgUrl/avatar.jpg",
-    "rss": "https://ngc2237.love/feed.xm"
+    "rss": "https://ngc2237.love/feed.xml"
   },
   {
     "name": "zuanshijia’s blog",
