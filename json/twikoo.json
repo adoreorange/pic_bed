@@ -366,274 +366,599 @@
       }
     ]
   },
-  "2233娘": {
+  "Bili小蓝": {
     "type": "image",
     "container": [
       {
         "text": "bilibili2233-1",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/1.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/1.png'>"
       },
       {
         "text": "bilibili2233-2",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/10.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/10.png'>"
       },
       {
         "text": "bilibili2233-3",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/11.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/11.png'>"
       },
       {
         "text": "bilibili2233-4",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/12.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/12.png'>"
       },
       {
         "text": "bilibili2233-5",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/13.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/13.png'>"
       },
       {
         "text": "bilibili2233-6",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/14.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/14.png'>"
       },
       {
         "text": "bilibili2233-7",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/15.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/15.png'>"
       },
       {
         "text": "bilibili2233-8",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/2.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/2.png'>"
       },
       {
         "text": "bilibili2233-9",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/3.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/3.png'>"
       },
       {
         "text": "bilibili2233-10",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/4.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/4.png'>"
       },
       {
         "text": "bilibili2233-11",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/5.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/5.png'>"
       },
       {
         "text": "bilibili2233-12",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/6.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/6.png'>"
       },
       {
         "text": "bilibili2233-13",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/7.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/7.png'>"
       },
       {
         "text": "bilibili2233-14",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/8.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/8.png'>"
       },
       {
         "text": "bilibili2233-15",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/9.png'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/9.png'>"
       }
     ]
   },
-  "tom_jerry": {
+  "猫和老鼠": {
     "type": "image",
     "container": [
       {
         "text": "tom_jerry-1",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/1.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/1.jpg'>"
       },
       {
         "text": "tom_jerry-2",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/10.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/10.jpg'>"
       },
       {
         "text": "tom_jerry-3",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/11.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/11.jpg'>"
       },
       {
         "text": "tom_jerry-4",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/12.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/12.jpg'>"
       },
       {
         "text": "tom_jerry-5",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/13.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/13.jpg'>"
       },
       {
         "text": "tom_jerry-6",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/14.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/14.jpg'>"
       },
       {
         "text": "tom_jerry-7",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/15.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/15.jpg'>"
       },
       {
         "text": "tom_jerry-8",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/16.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/16.jpg'>"
       },
       {
         "text": "tom_jerry-9",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/17.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/17.jpg'>"
       },
       {
         "text": "tom_jerry-10",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/18.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/18.jpg'>"
       },
       {
         "text": "tom_jerry-11",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/19.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/19.jpg'>"
       },
       {
         "text": "tom_jerry-12",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/2.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/2.jpg'>"
       },
       {
         "text": "tom_jerry-13",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/20.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/20.jpg'>"
       },
       {
         "text": "tom_jerry-14",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/21.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/21.jpg'>"
       },
       {
         "text": "tom_jerry-15",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/22.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/22.jpg'>"
       },
       {
         "text": "tom_jerry-16",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/23.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/23.jpg'>"
       },
       {
         "text": "tom_jerry-17",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/24.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/24.jpg'>"
       },
       {
         "text": "tom_jerry-18",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/25.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/25.jpg'>"
       },
       {
         "text": "tom_jerry-19",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/26.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/26.jpg'>"
       },
       {
         "text": "tom_jerry-20",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/27.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/27.jpg'>"
       },
       {
         "text": "tom_jerry-21",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/28.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/28.jpg'>"
       },
       {
         "text": "tom_jerry-22",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/29.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/29.jpg'>"
       },
       {
         "text": "tom_jerry-23",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/3.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/3.jpg'>"
       },
       {
         "text": "tom_jerry-24",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/30.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/30.jpg'>"
       },
       {
         "text": "tom_jerry-25",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/31.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/31.jpg'>"
       },
       {
         "text": "tom_jerry-26",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/4.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/4.jpg'>"
       },
       {
         "text": "tom_jerry-27",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/5.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/5.jpg'>"
       },
       {
         "text": "tom_jerry-28",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/6.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/6.jpg'>"
       },
       {
         "text": "tom_jerry-29",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/7.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/7.jpg'>"
       },
       {
         "text": "tom_jerry-30",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/8.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/8.jpg'>"
       },
       {
         "text": "tom_jerry-31",
-        "icon": "<img src='https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/9.jpg'>"
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/tom_jerry/9.jpg'>"
       }
     ]
   },
-  "<img src=\"http://cdnjson.com/images/2025/02/17/bochi-cover.webp\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">": {
+  "可爱猫": {
     "type": "image",
     "container": [
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_13.png'>",
-        "text": "暗中观察_13"
+        "text": "blobcat0_0",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcat0_0.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/to.png'>",
-        "text": "to"
+        "text": "blobcatalt",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatalt.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_11.png'>",
-        "text": "波门_11"
+        "text": "blobcatangry",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatangry.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_10.png'>",
-        "text": "害羞_10"
+        "text": "blobcatattentionreverse",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatattentionreverse.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_02.png'>",
-        "text": "打咩_02"
+        "text": "blobcatblush",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatblush.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_09.png'>",
-        "text": "黑线_09"
+        "text": "blobcatbox",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatbox.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_01.png'>",
-        "text": "哼哼_01"
+        "text": "blobcatcaged",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatcaged.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_04.png'>",
-        "text": "垃圾桶_04"
+        "text": "blobcatcoffee",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatcoffee.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_16.png'>",
-        "text": "溜溜球_16"
+        "text": "blobcatcomftears",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatcomftears.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_07.png'>",
-        "text": "拍薯片_07"
+        "text": "blobcatcomfy",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatcomfy.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_03.png'>",
-        "text": "牡蛎_03"
+        "text": "blobcatcry",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatcry.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_14.png'>",
-        "text": "烧了_14"
+        "text": "blobcatdead",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatdead.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_06.png'>",
-        "text": "什么_06"
+        "text": "blobcatdisturbed",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatdisturbed.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_05.png'>",
-        "text": "什么省的_05"
+        "text": "blobcatfacepalm",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatfacepalm.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_12.png'>",
-        "text": "贴贴_12"
+        "text": "blobcatfearful",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatfearful.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_15.png'>",
-        "text": "切腹_15"
+        "text": "blobcatfingerguns",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatfingerguns.png'>"
       },
       {
-        "icon": "<img src='http://cdnjson.com/images/2025/02/17/_08.png'>",
-        "text": "消沉_08"
+        "text": "blobcatflip",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatflip.png'>"
+      },
+      {
+        "text": "blobcatflower",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatflower.png'>"
+      },
+      {
+        "text": "blobcatgay",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatgay.png'>"
+      },
+      {
+        "text": "blobcatgooglytrash",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatgooglytrash.png'>"
+      },
+      {
+        "text": "blobcatheadphones",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatheadphones.png'>"
+      },
+      {
+        "text": "blobcatheart",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatheart.png'>"
+      },
+      {
+        "text": "blobcatheartbroken",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatheartbroken.png'>"
+      },
+      {
+        "text": "blobcatheartpride",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatheartpride.png'>"
+      },
+      {
+        "text": "blobcathighfive",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcathighfive.png'>"
+      },
+      {
+        "text": "blobcatkissheart",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatkissheart.png'>"
+      },
+      {
+        "text": "blobcatlove",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatlove.png'>"
+      },
+      {
+        "text": "blobcatmelt",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatmelt.png'>"
+      },
+      {
+        "text": "blobcatmeltthumb",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatmeltthumb.png'>"
+      },
+      {
+        "text": "blobcatneutral",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatneutral.png'>"
+      },
+      {
+        "text": "blobcatnomblobcat",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatnomblobcat.png'>"
+      },
+      {
+        "text": "blobcatnotlikethis",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatnotlikethis.png'>"
+      },
+      {
+        "text": "blobcatopenmouth",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatopenmouth.png'>"
+      },
+      {
+        "text": "blobcatpeek2",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatpeek2.png'>"
+      },
+      {
+        "text": "blobcatpeekaboo",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatpeekaboo.png'>"
+      },
+      {
+        "text": "blobcatphoto",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatphoto.png'>"
+      },
+      {
+        "text": "blobcatpolice",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatpolice.png'>"
+      },
+      {
+        "text": "blobcatpresentred",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatpresentred.png'>"
+      },
+      {
+        "text": "blobcatrainbow",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatrainbow.png'>"
+      },
+      {
+        "text": "blobcatreachrev",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatreachrev.png'>"
+      },
+      {
+        "text": "blobcatread",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatread.png'>"
+      },
+      {
+        "text": "blobcatsadreach",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatsadreach.png'>"
+      },
+      {
+        "text": "blobcatsaitama",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatsaitama.png'>"
+      },
+      {
+        "text": "blobcatscared",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatscared.png'>"
+      },
+      {
+        "text": "blobcatshocked",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatshocked.png'>"
+      },
+      {
+        "text": "blobcatsipsweat",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatsipsweat.png'>"
+      },
+      {
+        "text": "blobcatsnapped",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatsnapped.png'>"
+      },
+      {
+        "text": "blobcatsnuggle",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatsnuggle.png'>"
+      },
+      {
+        "text": "blobcatthink",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatthink.png'>"
+      },
+      {
+        "text": "blobcattriumph",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcattriumph.png'>"
+      },
+      {
+        "text": "blobcatumm",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatumm.png'>"
+      },
+      {
+        "text": "blobcatverified",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatverified.png'>"
+      },
+      {
+        "text": "blobcatwave",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatwave.png'>"
+      },
+      {
+        "text": "blobcatyandere",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/blobcat/blobcatyandere.png'>"
       }
     ]
   },
-  "<img src=\"https://expression.qjqq.cn/1/64da7e5e6b64d.jpeg\" style=\"width: 30px;top: 4px;position: relative;\" title=\"ikun\">": {
+  "线条狗": {
+    "type": "image",
+    "container": [
+      {
+        "text": "linedog-不要",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-不要.gif'>"
+      },
+      {
+        "text": "linedog-写不完了",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-写不完了.gif'>"
+      },
+      {
+        "text": "linedog-准备",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-准备.gif'>"
+      },
+      {
+        "text": "linedog-加油",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-加油.gif'>"
+      },
+      {
+        "text": "linedog-呸",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-呸.gif'>"
+      },
+      {
+        "text": "linedog-哼",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-哼.gif'>"
+      },
+      {
+        "text": "linedog-喂",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-喂.gif'>"
+      },
+      {
+        "text": "linedog-好棒",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-好棒.gif'>"
+      },
+      {
+        "text": "linedog-好痛",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-好痛.gif'>"
+      },
+      {
+        "text": "linedog-好耶",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-好耶.gif'>"
+      },
+      {
+        "text": "linedog-威胁",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-威胁.gif'>"
+      },
+      {
+        "text": "linedog-完成",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-完成.gif'>"
+      },
+      {
+        "text": "linedog-寻找",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-寻找.gif'>"
+      },
+      {
+        "text": "linedog-庆祝",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-庆祝.gif'>"
+      },
+      {
+        "text": "linedog-开心",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-开心.gif'>"
+      },
+      {
+        "text": "linedog-惊",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-惊.gif'>"
+      },
+      {
+        "text": "linedog-惊讶",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-惊讶.gif'>"
+      },
+      {
+        "text": "linedog-惊讶2",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-惊讶2.gif'>"
+      },
+      {
+        "text": "linedog-打你",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-打你.gif'>"
+      },
+      {
+        "text": "linedog-打你2",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-打你2.gif'>"
+      },
+      {
+        "text": "linedog-指",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-指.gif'>"
+      },
+      {
+        "text": "linedog-探头",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-探头.gif'>"
+      },
+      {
+        "text": "linedog-摇摆",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-摇摆.gif'>"
+      },
+      {
+        "text": "linedog-摊手",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-摊手.gif'>"
+      },
+      {
+        "text": "linedog-晃脚脚",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-晃脚脚.gif'>"
+      },
+      {
+        "text": "linedog-期待",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-期待.gif'>"
+      },
+      {
+        "text": "linedog-来了",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-来了.gif'>"
+      },
+      {
+        "text": "linedog-歪头",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-歪头.gif'>"
+      },
+      {
+        "text": "linedog-沮丧",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-沮丧.gif'>"
+      },
+      {
+        "text": "linedog-画圈圈",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-画圈圈.gif'>"
+      },
+      {
+        "text": "linedog-略",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-略.gif'>"
+      },
+      {
+        "text": "linedog-盯",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-盯.gif'>"
+      },
+      {
+        "text": "linedog-看窗外1",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-看窗外1.gif'>"
+      },
+      {
+        "text": "linedog-看窗外2",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-看窗外2.gif'>"
+      },
+      {
+        "text": "linedog-紧张",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-紧张.gif'>"
+      },
+      {
+        "text": "linedog-翘脚脚",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-翘脚脚.gif'>"
+      },
+      {
+        "text": "linedog-谢谢",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-谢谢.gif'>"
+      },
+      {
+        "text": "linedog-转圈",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-转圈.gif'>"
+      },
+      {
+        "text": "linedog-送你花花",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-送你花花.gif'>"
+      },
+      {
+        "text": "linedog-难过",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-难过.gif'>"
+      },
+      {
+        "text": "linedog-震惊",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-震惊.gif'>"
+      },
+      {
+        "text": "linedog-非常好",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-非常好.gif'>"
+      },
+      {
+        "text": "linedog-颓废",
+        "icon": "<img src='https://fastly.jsdelivr.net/gh/willow-god/owo/linedog/linedog-颓废.gif'>"
+      }
+    ]
+  },
+  "ikun": {
     "type": "image",
     "container": [
       {
@@ -722,7 +1047,7 @@
       }
     ]
   },
-  "<img src=\"https://s21.ax1x.com/2025/02/17/pEMC8tH.webp\" style=\"width: 30px;top: 4px;position: relative;\" title=\"clown\">": {
+  "小丑": {
     "type": "image",
     "container": [
       {
